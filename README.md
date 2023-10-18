@@ -1,2 +1,2 @@
-# OT.github.io
-This is a study note about OT.
+# rigidwill666.github.io
+Own study notes.
